@@ -1,0 +1,89 @@
+{
+    "simpleText":"Iniciar sesión",
+    "simpleText2":"¿Olvidaste tu contraseña?",
+    "simpleText3":"¿No tienes una cuenta?",
+    "simpleText4":"Registrar",
+    "simpleText5":"Correo electrónico",
+    "simpleText6":"El Correo electrónico es inválido",
+    "simpleText7":"La contraseña es inválida",
+    "simpleText8":"Contraseña",
+    "simpleText9":"Solicitud de red fallida",
+    "simpleText10":"Usuario Deshabilitado",
+    "simpleText11":"Usuario no encontrado",
+    "simpleText12":"Contraseña Equivocada",
+    "simpleText13":"Demaciadas peticiones",
+    "simpleText14":"Error desconocido",
+    "simpleText15":"Campos Inválidos",
+    "simpleText16":"Registrarse",
+    "simpleText17":"Nombre",
+    "simpleText18":"Nombre es inválido",
+    "simpleText19":"Nombre PYME",
+    "simpleText20":"Ingresar PYME",
+    "simpleText21":"Confirmar contraseña",
+    "simpleText22":"La contraseña de verificación no coincide",
+    "simpleText23":"Registro",
+    "simpleText24":"El Correo electrónico ya está en uso",
+    "simpleText25":"Contraseña débil",
+    "simpleText26":"Restablecer contraseña",
+    "simpleText27":"Ingrese su correo electrónico y recibirá un enlace para cambiar su contraseña",
+    "simpleText28":"Enviar",
+    "simpleText29":"Correo correcto",
+    "simpleText30":"Correo electrónico enviado",
+    "simpleText31":"Verificar tu conexión internet",
+    "simpleText32":"Usuario",
+    "simpleText33":"Correo electrónico verificado",
+    "simpleText34":"SI",
+    "simpleText35":"Modo oscuro",
+    "simpleText36":"Cerrar sesión",
+    "simpleText37":"Guardar",
+    "simpleText38":"Cancelar",
+    "textWithPlaceholder": "Hola, {name}",
+    "@textWithPlaceholder":{
+        "placeholders":{
+            "name":{}
+        }
+    },
+    "simpleText39":"Aplicación móvil con información útil de las tasas de interés recopiladas",
+    "simpleText40":"del Banco Central de Chile y noticias recopiladas de NewApi",
+    "simpleText41":"Inicio",
+    "simpleText42":"Tasa de interés",
+    "simpleText43":"Gráficos",
+    "simpleText44":"Noticias",
+    "simpleText45":"Idioma",
+    "simpleText46":"Calculadora de TPM",
+    "simpleText47":"No hay datos",
+    "simpleText48":"Elige una fecha",
+    "textWithPlaceholder2":"El día {day}",
+    "@textWithPlaceholder2":{
+        "placeholders":{
+            "day":{}
+        }
+    },
+    "textWithPlaceholder3":"La Tasa de interés es : {interest} %",
+    "@textWithPlaceholder3":{
+        "placeholders":{
+            "interest":{}
+        }
+    },
+    "simpleText49":"Tasa de interés monetaria (TPM)",
+    "simpleText50":"Tasa de interés interbancaria (TIB)",
+    "simpleText51":"Consumo",
+    "simpleText52":"Vivienda",
+    "simpleText53":"Comercio exterior",
+    "simpleText54":"Comerciales",
+    "simpleText55":"Gráfico TPM",
+    "simpleText56":"Gráfico TIB",
+    "simpleText57":"Gráfico vivienda",
+    "simpleText58":"Gráfico comercio exterior",
+    "simpleText59":"Gráfico consumo",
+    "simpleText60":"Gráfico comercial",
+    "simpleText61":"Ver más...",
+    "textWithPlaceholders":"Fecha: {date} \nValor: {value} %",
+    "@textWithPlaceholders":{
+        "placeholders":{
+            "date":{},
+            "value":{}
+        }
+    },
+    "simpleText62":"Cambiar idioma"
+}

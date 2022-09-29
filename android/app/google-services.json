@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952089244326",
+    "project_id": "tasa-de-interes-4e977",
+    "storage_bucket": "tasa-de-interes-4e977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952089244326:android:baf1c4f0205c82787f3a67",
+        "android_client_info": {
+          "package_name": "app.tesis.tesis_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952089244326-t0f8c7e6ujkpu5glcrip7bitkchg3e6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHVxiakUfdieUxOTJGt15WmdgVENPN6Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952089244326-t0f8c7e6ujkpu5glcrip7bitkchg3e6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

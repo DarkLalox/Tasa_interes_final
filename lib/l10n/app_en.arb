@@ -1,0 +1,90 @@
+{  
+    "simpleText":"Sign in",
+    "simpleText2":"Forgot password?",
+    "simpleText3":"Don't have an account?",
+    "simpleText4":"Sign up",
+    "simpleText5":"Email",
+    "simpleText6":"Invalid email",
+    "simpleText7":"Invalid password",
+    "simpleText8":"Password",
+    "simpleText9":"Network request failed",
+    "simpleText10":"User disabled",
+    "simpleText11":"User not found",
+    "simpleText12":"Wrong password",
+    "simpleText13":"Too Many Requests",
+    "simpleText14":"Unknown error",
+    "simpleText15":"Invalid fields",
+    "simpleText16":"Sign up",
+    "simpleText17":"Name",
+    "simpleText18":"Invalid name",
+    "simpleText19":"Name PYME",
+    "simpleText20":"Enter PYME",
+    "simpleText21":"Confirm password",
+    "simpleText22":"Password don't match",
+    "simpleText23":"Register",
+    "simpleText24":"Email is already in use",
+    "simpleText25":"Weak password",
+    "simpleText26":"Reset password",
+    "simpleText27":"Enter your email to recive a link to change your password",
+    "simpleText28":"Send",
+    "simpleText29":"Good",
+    "simpleText30":"Email sent",
+    "simpleText31":"Check your internet connection",
+    "simpleText32":"User",
+    "simpleText33":"Email verified",
+    "simpleText34":"YES",
+    "simpleText35":"Dark mode",
+    "simpleText36":"Sign out",
+    "simpleText37":"Save",
+    "simpleText38":"Cancel",
+    "textWithPlaceholder": "Welcome, {name}",
+    "@textWithPlaceholder":{
+        "placeholders":{
+            "name":{}
+        }
+    },
+    "simpleText39":"Mobile application with useful information on interest rates collected",
+    "simpleText40":"from the Central Bank of Chile and news collected from NewApi",
+    "simpleText41":"Home",
+    "simpleText42":"Interest rate",
+    "simpleText43":"Graphics",
+    "simpleText44":"News",
+    "simpleText45":"Language",
+    "simpleText46":"MPR calculator",
+    "simpleText47":"No data",
+    "simpleText48":"Choose a date",
+    "textWithPlaceholder2":"The day {day}",
+    "@textWithPlaceholder2":{
+        "placeholders":{
+            "day":{}
+        }
+    },
+    "textWithPlaceholder3":"The interest rate is : {interest} %",
+    "@textWithPlaceholder3":{
+        "placeholders":{
+            "interest":{}
+        }
+    },
+    "simpleText49":"Monerary policy rate (MPR)",
+    "simpleText50":"Interbank interest rate (IBR)",
+    "simpleText51":"Consumer",
+    "simpleText52":"Housing",
+    "simpleText53":"Foreign trade",
+    "simpleText54":"Commercial",
+    "simpleText55":"MPR chart",
+    "simpleText56":"IBR chart",
+    "simpleText57":"Housing chart",
+    "simpleText58":"Foreign trade chart",
+    "simpleText59":"Consumer chart",
+    "simpleText60":"Commercial chart",
+    "simpleText61":"See more...",
+    "textWithPlaceholders":"Date: {date} \nValue: {value} %",
+    "@textWithPlaceholders":{
+        "placeholders":{
+            "date":{},
+            "value":{}
+        }
+    },
+    "simpleText62":"Change language"
+
+}   
